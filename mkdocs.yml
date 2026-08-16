@@ -16,20 +16,8 @@ theme:
 
 nav:
   - Home: index.md
-  - Getting Started:
-      - Introduction: getting-started/introduction.md
   - Documentation:
       - Incident Reports: documentation/incident-reports.md
-  - Medication Management:
-      - MAR: medication/mar.md
-  - Scheduling:
-      - Scheduling Overview: scheduling/overview.md
-  - EVV:
-      - EVV Overview: evv/overview.md
-  - Billing:
-      - Billing Overview: billing/overview.md
-  - Troubleshooting:
-      - Common Issues: troubleshooting/common-issues.md
 
 plugins:
   - search
