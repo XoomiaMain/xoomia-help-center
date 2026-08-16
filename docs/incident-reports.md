@@ -66,8 +66,7 @@ A video tutorial demonstrating how to document an Incident Report (DD102) in Xoo
 
 ## Related Articles
 
-- [Getting Started with Xoomia](../getting-started/introduction.md)
-- [Documentation Overview](incident-reports.md)
+- More documentation guides will be added to the Xoomia Help Center soon.
 
 ---
 
