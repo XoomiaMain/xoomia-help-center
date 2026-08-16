@@ -1,0 +1,40 @@
+site_name: Xoomia Help Center
+site_description: Xoomia Health Help Center
+site_url: https://xoomia.github.io/xoomia-help-center/
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Introduction: getting-started/introduction.md
+  - Documentation:
+      - Incident Reports: documentation/incident-reports.md
+  - Medication Management:
+      - MAR: medication/mar.md
+  - Scheduling:
+      - Scheduling Overview: scheduling/overview.md
+  - EVV:
+      - EVV Overview: evv/overview.md
+  - Billing:
+      - Billing Overview: billing/overview.md
+  - Troubleshooting:
+      - Common Issues: troubleshooting/common-issues.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
