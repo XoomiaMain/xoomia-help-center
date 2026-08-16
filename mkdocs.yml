@@ -1,6 +1,5 @@
 site_name: Xoomia Help Center
 site_description: Xoomia Health Help Center
-site_url: https://xoomia.github.io/xoomia-help-center/
 
 theme:
   name: material
@@ -16,8 +15,7 @@ theme:
 
 nav:
   - Home: index.md
-  - Documentation:
-      - Incident Reports: documentation/incident-reports.md
+  - Incident Reports: incident-reports.md
 
 plugins:
   - search
